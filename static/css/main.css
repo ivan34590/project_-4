@@ -1,0 +1,45 @@
+.header{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(86, 184, 86);
+    text-shadow: 1px 1px rgb(56, 86, 56);
+}
+label{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 50%;
+    color: rgb(71, 140, 200);
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+.email, .height, .weight{
+    margin-left: 41%;
+    width: 20%;
+}
+
+.email, .height, .weight{
+    outline: none;
+    border: 2px solid lightgreen;
+    border-radius: 5px;
+    box-shadow: 2px 2px rgba(93, 147, 93, 0.379);
+    margin-bottom: 1%;
+}
+.submit{
+    margin-left:50.5%;
+    margin-top: 1%;
+    background-color: rgb(170, 174, 174);
+    text-align: center;
+    border-radius: 5px;
+    outline: none;
+    border: 2px solid rgb(0, 0, 0);
+}
+.background{
+    background-color: rgb(216, 216, 173);
+}
+.thankyou{
+    text-align: center;
+    color: rgb(86, 184, 86);
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px black;
+    margin: 20%;
+}
